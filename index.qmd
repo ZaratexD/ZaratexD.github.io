@@ -1,11 +1,22 @@
 ---
-title: "ZaratexD.github.io"
+title: "Angel Zarate UW Senior"
+image: media/IMG_0303.jpg
+toc: false
+about:
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: linkden
+      href: https://www.linkedin.com/
 ---
 
-This is a Quarto website.
+**UW Applied & Computational Mathematical Sciences: Data Science & Statistics**
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am a Seniorstudying ACMS: Data Science at the University of Washington Seattle. I enjoy using programming as a tool to help me achieve my goals, express my creativity, and push the boundaries of cutting-edge technology like AI/ML.
 
-```{r}
-1 + 1
-```
+Currently: Working at U.W. Dermatology Finance Department where I get hands on experience developing Dashboards, optimizing data pipelines, and communicating needs from Financial Analyst to iteratively make Financial reporting more streamlined.
+
+I have taken a special interest in ML working on the DeepTracer\[<https://deeptracer.uw.edu/home>\] program with Data Analysis & Intelligent Systems (DAIS) \@ UW. Here we aim to bring Machine Learning techniques to predict protein structures pushing innovation in applied technology to life science.
+
+Developing, planning, and working towards a common goal takes a lot of work. I am using my **GitHub** to showcase the skills I have learned and how they apply to the research I am assisting with as well as show my dedication to proper Software Development.
