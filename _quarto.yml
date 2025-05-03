@@ -11,6 +11,8 @@ website:
       - href: projects.qmd
         text: Projects
       - about.qmd
+      - href: media/Angel_Zarate_Resume_2025.pdf
+        text: Resume
 
 format:
   html:

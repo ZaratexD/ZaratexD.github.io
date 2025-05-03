@@ -2,8 +2,14 @@
 title: "About"
 ---
 
-About this site
+# **About Me**
 
-```{r}
-1 + 1
-```
+Some info about me outside of technical side!
+
+**Traveling**
+
+-   I enjoy traveling and using Film Photography to document my experiences. I have gone to Japan, Korea, Spain, London, France, and Italy!
+
+**Reading**
+
+-   In a fast-paced digital age, it is hard to slow down my mind at times. By reading I disconnect from my phone and let my mind relax. I aim to read at least 1 book per month. So far I'm 5 in.
